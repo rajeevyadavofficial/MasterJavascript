@@ -11,5 +11,6 @@ var surname = '22'
 
 email = "rajeev@gmail.com"
 name1 = "apple"
+let phone;
 console.log(name1)
-console.table([name1,email,age])
+console.table([name1,email,age,phone])
